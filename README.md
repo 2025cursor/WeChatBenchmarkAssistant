@@ -17,7 +17,7 @@
 ```bash
 # 克隆项目
 git clone [项目地址]
-cd wxdeveloper
+cd WeChatBenchmarkAssistant
 
 # 创建并激活虚拟环境
 uv venv
@@ -40,7 +40,7 @@ python run.py
 
 2. 在浏览器中访问：
 ```
-http://localhost:5000
+http://localhost:5001
 ```
 
 3. 使用步骤：
